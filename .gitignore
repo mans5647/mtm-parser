@@ -1,0 +1,6 @@
+.vscode
+.vs
+x64/
+x32/
+Debug/
+test_string.cpp
